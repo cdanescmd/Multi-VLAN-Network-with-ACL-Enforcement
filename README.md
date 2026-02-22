@@ -7,6 +7,7 @@ This project demonstrates the design and implementation of a segmented multi-VLA
 The objective was to simulate a small enterprise network and validate Layer 2 and Layer 3 functionality through structured configuration and troubleshooting.
 
 ## Network Design
+![VLAN Architecture](architecture/multi_VLAN_network_lab_diagram.png)
 ### VLAN Structure
 
 VLAN | Department | Subnet | Gateway
